@@ -43,7 +43,7 @@ So now just erase all the bytes above this png header. And you will get the flag
 
 ## Flag
 
-`flag{scr1pt1ng r34lly t0ugh a4n't 1t??}`
+`flag{scr1pt1ng_r34lly_t0ugh_a4n't_1t??}`
 
 
 
